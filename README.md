@@ -16,6 +16,16 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/Github-609926?style=plastic&logo=Github&logoColor=white">
 
+# 
+
+📞 Contact Me 📞
+
+<a href="https://velog.io/@dongdida/series"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=plastic&logo=velog&logoColor=white&link=https://velog.io/@dongdida/series"/></a> 
+<a href="https://www.instagram.com/siiiijong/"><img src="https://img.shields.io/badge/instagram-E4405F?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/siiiijong/"/></a>
+
+</br>
+</br>
+</br>
 
 
 </div>
