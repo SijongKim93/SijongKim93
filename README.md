@@ -10,11 +10,11 @@
 
 
 
-🛠️ tech stack 🛠️
+🛠️ Tech Stack 🛠️
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=plastic&logo=iOS&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/Github-609926?style=for-the-badge&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/Github-609926?style=plastic&logo=Github&logoColor=white">
 
 
 
