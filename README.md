@@ -20,7 +20,7 @@
 
 📞 Contact Me 📞
 
-<a href="https://dongdida.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=plastic&logo=tistory&logoColor=white&link=https://dongdida.tistory.com"/></a> 
+<a href="https://dongdida.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-EF2D5E?style=plastic&logo=tistory&logoColor=white&link=https://dongdida.tistory.com"/></a> 
 <a href="https://www.instagram.com/siiiijong/"><img src="https://img.shields.io/badge/instagram-E4405F?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/siiiijong/"/></a>
 
 </br>
