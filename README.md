@@ -5,7 +5,7 @@
 <div align="center">
 
 
-# 👋 Si jong Github
+# 👋 Si Jong Github
 
 
 
