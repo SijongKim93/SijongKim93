@@ -29,17 +29,13 @@
 
 ### 🚀 Projects 🚀
 
- **Turtle Voca**  
-  2024.05 – 2024.06
-
- **WanderBoard**  
-  2024.06 – 2024.08
-
- **Todak Chatbot**  
-  2024.11 – 2025.04
-
- **NoWeekend**  
-  2025.05 – 2025.08
+ **Turtle Voca** | 2024.05 – 2024.06
+ 
+ **WanderBoard** | 2024.06 – 2024.08
+ 
+ **Todak Chatbot** | 2024.11 – 2025.04
+ 
+ **NoWeekend** | 2025.05 – 2025.08
 
 ### 📞 Contact Me 📞
 
