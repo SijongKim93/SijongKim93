@@ -14,18 +14,15 @@
 
 ### 🎓 Education 🎓
 
- **iOS 3th | Sparta Coding Club**  
-  February 2024 – July 2024
+ **Sparta Coding Club** | iOS 3th | 2024.02 - 2024.08
 
 ### 🤝 Activities 🤝
 
- **iOS 15th | Mash-Up IT Society**  
-  March 2025 – Present
+ **Mash-Up IT Society** | iOS 15th | 2025.03 – Present
 
 ### 💼 Experience 💼
 
- **iOS Developer | TuringBio**  
-  September 2024 – Present
+ **TuringBio** | iOS Developer | 2024.09 – Present
 
 ### 🚀 Projects 🚀
 
