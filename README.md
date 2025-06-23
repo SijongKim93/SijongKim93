@@ -4,7 +4,7 @@
 <div align="center">
 
 
-## 👋 Si Jong GitHub!!!
+## 👋 Si Jong GitHub 👋
 
 
 
