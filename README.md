@@ -14,7 +14,7 @@
 
 ### 🎓 Education 🎓
 
- **Sparta Coding Club** | iOS 3th | 2024.02 - 2024.08
+ **Sparta Coding Club** | iOS 3th | 2024.02 - 2024.07
 
 ### 🤝 Activities 🤝
 
