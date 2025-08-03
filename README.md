@@ -18,7 +18,7 @@
 
 ### 🤝 Activities 🤝
 
- **Mash-Up IT Society** | iOS 15th | 2025.03 – Present
+ **Mash-Up IT Society** | iOS 15th | 2025.03 – 2025.08
 
 ### 💼 Experience 💼
 
