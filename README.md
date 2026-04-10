@@ -18,10 +18,11 @@
 
 | 프로젝트 | 기간 | 링크 |
 |----------|------|------|
-| **Turtle Voca** | 2024.05 – 2024.06 | [GitHub](https://github.com/SijongKim93/TURTLE-VOCA) |
-| **WanderBoard** | 2024.06 – 2024.08 | [GitHub](https://github.com/WanderBoard/WanderBoard) |
+| **Turtle Voca** | 2024.05 – 2024.06 | |
+| **WanderBoard** | 2024.06 – 2024.08 |  |
 | **Todak** | 2025.04 – 2025.09 |  |
 | **쓸래말래** | 2025.04 – 2025.08 | [GitHub](https://github.com/mash-up-kr/NoWeekend-iOS) |
+| **MommyLog** | 2026.03 - ing |   |
 
 
 ## 📞 Contact Me  
