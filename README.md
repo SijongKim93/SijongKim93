@@ -22,7 +22,7 @@
 | **WanderBoard** | 2024.06 – 2024.08 |  |
 | **Todak** | 2025.04 – 2025.09 |  |
 | **쓸래말래** | 2025.04 – 2025.08 | [GitHub](https://github.com/mash-up-kr/NoWeekend-iOS) |
-| **MommyLog** | 2026.03 - ing |   |
+| **MommyLog** | 2026.03 - ing |  [AppStore](https://apps.apple.com/kr/app/%EB%A7%88%EB%AF%B8%EB%A1%9C%EA%B7%B8/id6757898486) |
 
 
 ## 📞 Contact Me  
