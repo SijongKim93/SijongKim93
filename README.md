@@ -8,7 +8,8 @@
 ## 💼 Career  
 
 - **TuringBio** | iOS Developer | 2024.09 – 2025.10 (13 month)
-- **아파트너** | iOS Developer | 2025.10 – Working
+- **아파트너** | iOS Developer | 2025.10 – 2026.09
+- **WATCHA** | iOS Developer | 2026.09 – working
 
 ## 🤝 Activities  
 
