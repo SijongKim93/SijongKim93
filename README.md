@@ -7,24 +7,13 @@
 
 ## 💼 Career  
 
-- **TuringBio** | iOS Developer | 2024.09 – 2025.10 (13 month)
+- **TuringBio** | iOS Developer | 2024.09 – 2025.10
 - **아파트너** | iOS Developer | 2025.10 – 2026.09
 - **WATCHA** | iOS Developer | 2026.09 – working
 
 ## 🤝 Activities  
 
 - **Mash-Up IT Society** | iOS 15th | 2025.03 – 2025.08  
-
-## 🚀 Projects  
-
-| 프로젝트 | 기간 | 링크 |
-|----------|------|------|
-| **Turtle Voca** | 2024.05 – 2024.06 | |
-| **WanderBoard** | 2024.06 – 2024.08 |  |
-| **Todak** | 2025.04 – 2025.09 |  |
-| **쓸래말래** | 2025.04 – 2025.08 | [GitHub](https://github.com/mash-up-kr/NoWeekend-iOS) |
-| **MommyLog** | 2026.03 - ing |  [AppStore](https://apps.apple.com/kr/app/%EB%A7%88%EB%AF%B8%EB%A1%9C%EA%B7%B8/id6757898486) |
-
 
 ## 📞 Contact Me  
 
